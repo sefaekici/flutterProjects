@@ -1,6 +1,6 @@
 # ogrenci_takip_sistemi
 
-A new Flutter application.
+This is my first flutter application.
 
 ## Getting Started
 
